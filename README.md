@@ -35,6 +35,6 @@ Here's what I'm up to:
 [![IDEA, PyCharm, VSCode, Eclipse](https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse)](https://skillicons.dev)
 ## My Github Stats
 <p>
-  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=g1kum4r&show_icons=true&count_private=true&theme=dark"/>
-  <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1kum4r&layout=compact&theme=dark" />  
+  <img height="175px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=g1kum4r&show_icons=true&count_private=true&theme=dark"/>
+  <img height="175px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1kum4r&layout=compact&theme=dark" />  
 </p>
