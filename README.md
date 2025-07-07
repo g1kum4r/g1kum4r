@@ -19,14 +19,14 @@ Here's what I'm up to:
 [![Java, Kotlin, Scala, Python, Go, JavaSript, TypeScript, AIScript](https://skillicons.dev/icons?i=java,kotlin,scala,python,go,js,ts,aiscript)](https://skillicons.dev)
 
 ### Frameworks
-[![Ktor, Spring, Hibernate, FastApi, DJango, React, React Native, Angular, NodeJs, Deno, Bun, ExpressJs, NextJs, NestJs, AdonisJs, AlpineJs Electron, Prisma, D3, ThreeJS](https://skillicons.dev/icons?i=ktor,spring,hibernate,fastapi,django,react,reactnative,angular,nodejs,deno,bun,express,next,nestjs,adonis,alpinejs,electron,prisma,d3,threejs)](https://skillicons.dev)
+[![Ktor, Spring, Hibernate, FastApi, DJango, React, ReactiveX, Angular, NodeJs, Deno, Bun, ExpressJs, NextJs, NestJs, AdonisJs, AlpineJs Electron, Prisma, D3, ThreeJS](https://skillicons.dev/icons?i=ktor,spring,hibernate,fastapi,django,react,reactivex,angular,nodejs,deno,bun,express,next,nestjs,adonis,alpinejs,electron,prisma,d3,threejs)](https://skillicons.dev)
 
 
 ### Databases
 [![Postgres, MySQL, SQLite, DynamoDB, Redis, MongoDB, Firebase, Supabase](https://skillicons.dev/icons?i=postgres,mysql,sqlite,dynamodb,redis,mongodb,firebase,supabase)](https://skillicons.dev)
 
 ### Miscellaneous 
-[![Kafka, RabbitMQ, Firebase, Arduino, Gradel, Maven, Poetry, NVM, NPM, Docker, Git, Bash](https://skillicons.dev/icons?i=kafka,rabbitmq,firebase,arduino,gradel,maven,poetry,nvm,npm,docker,git,bash)](https://skillicons.dev)
+[![Kafka, RabbitMQ, GraphQL, Maven, Gradle, NPM, PNPM, Docker, Git, Bash, Arduino, Raspberrypi](https://skillicons.dev/icons?i=kafka,rabbitmq,graphql,maven,gradle,npm,docker,git,bash,arduino,raspberrypi,)](https://skillicons.dev)
 
 ### OS
 [![Linux, Ubuntu, Mint, Kali, Arch, windows, MacOS](https://skillicons.dev/icons?i=linux,ubuntu,mint,kali,arch,windows,apple)](https://skillicons.dev)
